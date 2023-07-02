@@ -1,6 +1,7 @@
 # EasyCompile
 
-EasyCompile is a bash script designed to facilitate the compilation of C programs, following the compilation standards provided by @rnollet, without the need to manually copy all the flags (although it is still recommended to learn them).
+EasyCompile is a bash script designed to facilitate the compilation of C programs, following the compilation standards provided by [@rnollet](https://github.com/rnollet)
+, without the need to manually copy all the flags (although it is still recommended to learn them).
 
 # How to install it?
 
